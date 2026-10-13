@@ -1,0 +1,11 @@
+name: pc16_dart_exercises
+description: A Dart program demonstrating variables, data types, and operators.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# No external dependencies are required.
+dependencies:
+
+dev_dependencies:
