@@ -1,0 +1,12 @@
+=== Precious Jane Catundag ===
+Checking grade...
+Check number 1
+Check number 2
+Check number 3
+Grade: 90 - PASSED
+Checking grade...
+Check number 1
+Check number 2
+Check number 3
+Grade: 65 - FAILED
+Error: Please enter a valid number.
